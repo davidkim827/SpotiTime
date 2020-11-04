@@ -1,5 +1,4 @@
 # SpotiTime
-Plays playlists according to a time schedule:
 This script was born out of my wanting to make Christmas perfect by playing more upbeat songs during the day and instrumental Christmas music at night automatically.
 Sort of messy, but wanted a quick and dirty solution.
 
